@@ -16,19 +16,22 @@ Here's the features I consider essential for me:
 # Contenders
 
 I searched a bit, considered some launchers for me and tried a few of them.
-First I tried the native version of [ZDL](https://github.com/qbasicer/qzdl).
+First I tried the Doom Runner, as that's what I saw in Debian software search.
 It's fine for quick lightweight
 setup, but IMO it's too cumbersome, as to keep it organized,
 you would have to create, configure and maintain lots of profiles
 (at least for .wad groups that share some common trait, or
-in worst case you'd need one for every single .wad)
+in worst case you'd need one for every single .wad).
+
+Capable, but tedious.
 
 My overall impression was that
 launchers with native Linux support were a bit meh, lacking -
 so I sticked with Windows executables + a Proton environment
 
 Then, there's
-[Hakros Doom Launcher (HDL)](https://www.doomlauncher.com/).
+[Hakros Doom Launcher (HDL)](https://www.doomlauncher.com/), 
+a nice fork of the all-time classic ZDL.
 It seemed promising,
 but I had some issue with it under Linux + Wine. I don't exactly
 remember now, but I think it was something to do with the .net
