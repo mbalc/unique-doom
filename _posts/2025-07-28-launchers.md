@@ -17,10 +17,25 @@ aunchers that worked on Linux out of the box were a bit meh,
 so I sticked with Windows executables + a Proton environment
 I wanted to make a setup for Linux
 
-I searched a bit, considered some launchers for me and tried a few of them, 
-and in the end - at least for now - I'm sticking with a rather gracelessly
-named one, the Doom Launcher, which ticks most of the stuff well enough
-for me.
+I searched a bit, considered some launchers for me and tried a few of them.
+First I tried the native version of ZDL. It's fine for quick lightweight
+setup, but IMO it's too cumbersome, as to keep it organized,
+you would have to create, configure and maintain lots of profiles
+(at least for .wad groups that share some common trait, or
+in worst case you'd need one for every single .wad)
 
-Among the alternatives
+Then, there's
+(Hakros Doom Launcher (HDL))[https://github.com/Majin-Croix-Havoc/Hakros-Doom-Launcher].
+It seemed promising,
+but I had some issue with it under Linux + Wine. I don't exactly
+remember now, but I think it was something to do with the .net
+setup there and I just gave up, or sth. I'd need to check it
+out again to tell, and I don't really have the incentive to do
+that right now.
+
+In the end - at least for now - I'm sticking with one
+with a rather inept name - the Doom Launcher.
+It ticks most of the stuff for me to make for
+a good-enough daily driver. And it has a cool
+igames integration.
 
