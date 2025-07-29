@@ -1,6 +1,37 @@
-# TODO: consider http://jekyllthemes.org/themes/adam-blog-2/
-theme: minima
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-include-cache
+
+# theme: minima
 
 title: Unique DOOM
 author: mbalc
 description: Sharing some of the DOOM mods (.wad) that offer a unique experience
+url: https://mbalc.github.io/unique-doom
+repository: mbalc/unique-doom
+
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+enable_copy_code_button: true
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "R_kgDOPUHBrQ"
+    category_name: "General"
+    category_id: "DIC_kwDOPUHBrc4Cth_f"
+    discussion_term      : "pathname"
+    reactions_enabled    : 1
+    theme                : "preferred_color_scheme"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+      comments: true
+

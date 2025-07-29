@@ -1,6 +1,7 @@
 ---
 title: "Launchers"
 date: 2025-07-28
+layout: single
 ---
 
 After messing around a bit in MyHouse.wad as my entry to the whole universe,
@@ -16,7 +17,8 @@ Here's the features I consider essential for me:
 # Contenders
 
 I searched a bit, considered some launchers for me and tried a few of them.
-First I tried the Doom Runner, as that's what I saw in Debian software search.
+First I tried the [Doom Runner](https://github.com/Youda008/DoomRunner),
+as that's what I saw in Debian software search.
 It's fine for quick lightweight
 setup, but IMO it's too cumbersome, as to keep it organized,
 you would have to create, configure and maintain lots of profiles
